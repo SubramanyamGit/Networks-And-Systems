@@ -1,0 +1,4 @@
+[web]
+IP_ADDRESS ansible_user=azureuser
+
+
